@@ -1,4 +1,4 @@
-package anton.dev.todoapp;
+package anton.dev.todoapp.model.entity;
 
 public class Task {
     private String description;
